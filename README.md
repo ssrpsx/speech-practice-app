@@ -1,4 +1,4 @@
-# Speech Therapy Game Application
+# Speech Therapy Game Application (still in development)
 ### Developed for the **27th National Software Contest (NSC)**
 
 ## About the Project
