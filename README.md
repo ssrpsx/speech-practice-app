@@ -40,7 +40,10 @@ The project utilizes the following technologies to deliver a seamless and engagi
 - **React Native** – A front-end framework for building cross-platform mobile applications.  
   React Native enables the app to run efficiently on both iOS and Android platforms, providing a smooth and consistent user experience.
 
-- **Flask** – A backend framework for managing data and server-side logic.  
-  Flask is used to handle server-side processes, manage data flow, and support user authentication and medical info management.
+- **Node.js** + **ExpressJS** – Backend API for managing data and server-side logic.  
+  Node.js and ExpressJS are used to handle server-side processes, manage data flow, and support user authentication and medical info management.
+
+- **Flask** – A lightweight backend framework used to provide API services for integrating AI models.  
+  Flask is used to expose an API that communicates with the AI models for tasks like speech recognition and processing, ensuring fast and efficient interaction with the AI.
 
 ---
