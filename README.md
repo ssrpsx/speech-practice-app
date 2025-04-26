@@ -24,10 +24,10 @@ The application features three main modules:
 ---
 
 ## System Structure
-<img src="structure-layout.jpg" alt="System Structure Layout" width="800">
+<img src="structure-layout.jpg" alt="System Structure Layout" width="850">
 
 ## UX/UI Design
-<img src="ux-ui.png" alt="UX/UI Design" width="800">
+<img src="ux-ui.png" alt="UX/UI Design" width="850">
 
 ---
 
